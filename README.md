@@ -4,7 +4,7 @@ Python tool that compresses IPv6 addresses
 ## Installation
 ```bash
 git clone https://github.com/xkingrohi/ipv6compress.git
-cd ipDetect
+cd ipv6compress
 pip install -r requirements.txt
 ```
 
